@@ -5,5 +5,5 @@
 Meetup slide decks and code will be published here at GitHub after each gathering.
 
 
-Best Regards,
+Best Regards,  
 The Scandinavian Microsoft Community Group
