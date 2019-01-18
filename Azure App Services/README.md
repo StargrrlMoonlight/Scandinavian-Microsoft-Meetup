@@ -12,9 +12,9 @@ Module:"Azure App Services"**
 
 ### Agenda: 
 - Create Azure App Service Web apps 
-  - Create an Azure App Service Web App  
+  - Create an Azure App Service Web App with PowerShell  
   - Create an Azure App Service background task using WebJobs  
-  - Enable diagnostics logging  
+  - Enable diagnostics logging with PowerShell  
     
 - Create Azure App Service Mobile apps 
   - Add push notifications for mobile apps  
@@ -22,8 +22,8 @@ Module:"Azure App Services"**
   - Implement a remote instrumentation strategy for mobile devices  
   
 - Create Azure App Service API apps 
-  - Create an Azure App Service API app  
-  - Create documentation for the API by using open source and other tools  
+  - Create an Azure App Service API app using Azure CLI/PowerShell    
+  - Create documentation for the API using Swagger  
 
 - Implementing Azure Functions  
   
